@@ -1,0 +1,12 @@
+.theheader {
+    background-color: lightslategrey;
+    font-family: helvetica;
+    border-style: solid;
+    border-width: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 50%;
+    margin-top: 10px;
+}
+
